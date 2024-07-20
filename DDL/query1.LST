@@ -1,0 +1,19 @@
+SQL> select *
+  2  from tab;
+
+TNAME                          TABTYPE  CLUSTERID                                                   
+------------------------------ ------- ----------                                                   
+DEPT                           TABLE                                                                
+EMP                            TABLE                                                                
+SALGRADE                       TABLE                                                                
+STUDENT                        TABLE                                                                
+TEACHER                        TABLE                                                                
+GROCERY                        TABLE                                                                
+ORDERS                         TABLE                                                                
+BOOK                           TABLE                                                                
+EMPLOYEE                       TABLE                                                                
+BONUSNEW                       TABLE                                                                
+
+10 rows selected.
+
+SQL> spool off
